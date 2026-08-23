@@ -1,0 +1,17 @@
+.DS_Store
+._*
+Icon?
+
+# Glyphs
+*.glyphs~
+*.glyphsbackup
+
+# venv
+venv/
+
+# build junk
+build/
+instance_ufo/
+master_ufo/
+*.pyc
+__pycache__/
